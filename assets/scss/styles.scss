@@ -1,0 +1,21 @@
+[lang="fa-IR"]{
+    direction: rtl;
+}
+$mainnav-bg: #0d41e2;
+.mainnav-container{
+    max-width: 100%;
+    height: 10rem;
+    padding: 2rem 2rem;
+    background: $mainnav-bg;
+
+}
+.mainnav-container ul li{
+    list-style: none;
+}
+.search-form{
+
+}
+.input-group{
+    max-width: 39%;
+}
+
